@@ -1,0 +1,23 @@
+<br>
+<br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <ul class="list-group">
+        <li class="list-group-item hoverable">
+          <a [routerLinkActive]="['/users']"  routerLinkActive="active">Your Profile</a>
+        </li>
+        <li class="list-group-item hoverable">
+          <a [routerLink]="['/products/favourite-products']">Your Favrites</a>
+        </li>
+        <li class="list-group-item hoverable">
+          <a [routerLink]="['/products/cart-items']"> Read Later List</a>
+        </li>
+      </ul>
+    </div>
+    <div class="col-sm-8">
+      <router-outlet name="profileOutlet"></router-outlet>
+    </div>
+  </div>
+</div>
