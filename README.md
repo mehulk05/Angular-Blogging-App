@@ -1,4 +1,4 @@
-# Angular7 - ShoppingBlogging + MDBootstrap + Firebase 
+# Angular7 - Angular Blogging + MDBootstrap + Firebase 
 
 
 
@@ -102,11 +102,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Home Page:
 
-![Alt text](https://github.com/mehulk05/Angular-Blogging-App/blob/master/screenshots/Screenshot%20(86).png"Home Page")
+![Alt text]https://github.com/mehulk05/Angular-Blogging-App/blob/master/screenshots/Screenshot%20(86).png?raw=true "Home Page")
 
 ### Blog List Page:
 
-![Alt text]https://github.com/mehulk05/Angular-Blogging-App/blob/master/screenshots/Screenshot%20(87).png "Bloglist Page")
+![Alt text]https://github.com/mehulk05/Angular-Blogging-App/blob/master/screenshots/Screenshot%20(87).png?raw=true "Bloglist Page")
 
 ### Blog:
 
