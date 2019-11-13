@@ -1,21 +1,12 @@
-# Angular7 - ShoppingCart + MDBootstrap + Firebase + i18n
+# Angular7 - ShoppingBlogging + MDBootstrap + Firebase 
 
-[![HitCount](http://hits.dwyl.io/ikismail/Angular-ShoppingCart.svg)](http://hits.dwyl.io/ikismail/Angular-ShoppingCart)
-[![GitHub forks](https://img.shields.io/github/forks/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/network)
-[![Github Dependencies](https://david-dm.org/ikismail/Angular-ShoppingCart.svg)](https://david-dm.org/ikismail/Angular-ShoppingCart.svg)
-[![GitHub stars](https://img.shields.io/github/stars/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/ikismail/Angular-ShoppingCart.svg)](https://github.com/ikismail/Angular-ShoppingCart/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ikismail/Angular-ShoppingCart/blob/master/LICENSE)
-[![npm](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://angular-shoppingcart.firebaseapp.com/)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/ikismail/Angular-ShoppingCart.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fikismail%2FAngular-ShoppingCart)
 
-<!-- [![Build Status](https://travis-ci.org/ikismail/Angular-ShoppingCart.svg?branch=master)](https://travis-ci.org/ikismail/Angular-ShoppingCart) -->
 
-Developing a **ShoppingCart (Ecommerce) Application using Angular7**.
+Developing a **Blogging App (Education) Application using Angular8**.
 
-**Live Demo** : [Angular-shopping-cart](https://angular-shoppingcart.firebaseapp.com/)
+**Live Demo** : [Angular-shopping-cart](https://blog-app-3cda4.firebaseapp.com/)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
 
 ## Functionalities
@@ -23,12 +14,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 1.  User Registration using Firebase Authentication (using Email/Password | Google Authentication )
 2.  CRUD Operations like
 
-- User can add product to his cart.
-- Admin can add product to the product list
-- Admin can edit/delete the product.
+- User can add blog to his List.
+- Admin can add Blog to the Blog list
+- Admin can edit/delete the Blog.
 
-3. Drag and Drop `Angular 7 Drag & Drop`
-- Implemented [Angular Drag and Drop CDK](https://material.angular.io/cdk/drag-drop/overview)
+
 
 1.  Security
 
@@ -112,15 +102,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Home Page:
 
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/home.PNG "Home Page")
+![Alt text](https://github.com/mehulk05/Angular-Blogging-App/blob/master/screenshots/Screenshot%20(86).png"Home Page")
 
-### Products Page:
+### Blog List Page:
 
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/products.PNG "Home Page")
+![Alt text]https://github.com/mehulk05/Angular-Blogging-App/blob/master/screenshots/Screenshot%20(87).png "Bloglist Page")
 
-### Work Board Page:
+### Blog:
 
-![Alt text](https://github.com/ikismail/Angular-ShoppingCart/blob/master/screenshots/drag&drop.PNG "Home Page")
+![Alt text](https://github.com/mehulk05/Angular-Blogging-App/blob/master/screenshots/Screenshot%20(88).png "blog Page")
 
 ## How can I support the developer ?
 
